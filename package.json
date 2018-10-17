@@ -1,0 +1,27 @@
+{
+	"name": "@omgjs/prettier-config-react",
+	"version": "1.0.0",
+	"private": false,
+	"description": "Prettier config in node module",
+	"main": "prettier-config-react.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/omgjs/prettier-config-react.git"
+	},
+	"keywords": [
+		"Javascript",
+		"ESLint",
+		"prettier",
+		"babel",
+		"ECMAScript"
+	],
+	"author": "Artem Korolev",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/omgjs/prettier-config-react/issues"
+	},
+	"homepage": "https://github.com/omgjs/prettier-config-react#readme"
+}

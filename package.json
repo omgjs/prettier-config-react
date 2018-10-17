@@ -2,6 +2,9 @@
 	"name": "@omgjs/prettier-config-react",
 	"version": "1.0.0",
 	"private": false,
+	"publishConfig": {
+		"access": "public"
+	},
 	"description": "Prettier config in node module",
 	"main": "prettier-config-react.js",
 	"scripts": {

@@ -1,0 +1,6 @@
+language: node_js
+deploy:
+  email: artkor@live.ru
+  provider: npm
+  api_key:
+    secure: $NPM_TOKEN

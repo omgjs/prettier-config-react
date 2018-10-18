@@ -6,7 +6,7 @@
 		"access": "public"
 	},
 	"description": "Prettier config in node module",
-	"main": "prettier-config-react.js",
+	"main": "src/prettier-config-react.js",
 	"scripts": {
 		"test": "echo \"Warning: this package comes without tests\" && exit 0"
 	},

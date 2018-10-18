@@ -25,5 +25,30 @@
 	"bugs": {
 		"url": "https://github.com/omgjs/prettier-config-react/issues"
 	},
-	"homepage": "https://github.com/omgjs/prettier-config-react#readme"
+	"homepage": "https://github.com/omgjs/prettier-config-react#readme",
+	"eslintConfig": {
+		"extends": "@omgjs/eslint-config-react"
+	},
+	"babel": {
+		"extends": "@omgjs/babel-config-react"
+	},
+	"devDependencies": {
+		"@omgjs/eslint-config-react": "x",
+		"eslint": "5.x",
+		"eslint-config-airbnb": "17.x",
+		"eslint-config-prettier": "3.x",
+		"eslint-loader": "2.x",
+		"eslint-plugin-import": "2.x",
+		"eslint-plugin-jest": "21.x",
+		"eslint-plugin-jsx-a11y": "6.x",
+		"eslint-plugin-markdown": "^1.0.0-beta.6",
+		"eslint-plugin-prettier": "2.x",
+		"eslint-plugin-react": "7.x",
+		"eslint-watch": "4.x",
+		"babel-eslint": "10.x",
+		"prettier": "1.x"
+	},
+	"peerDependencies": {
+		"prettier": "1.x"
+	}
 }
